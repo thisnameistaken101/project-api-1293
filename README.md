@@ -10,8 +10,8 @@ Nothing really more to tell, other than if you want to run it you have to:
 
 I couldn't host it, because by nature of this project, it requires quite some calculation and I couldn't find reliable hosting that would let it run for 30 seconds without cutting it off. Instead here are some screenshots:
 
-- Intro page
-- Player page with data
-- JavaScript assisted transition
-- Mobile horizontal player page
-- Mobile vertical player page
+- <a href="https://raw.githubusercontent.com/thisnameistaken101/project-api-1293/master/images/index%20desktop.png">Intro page</a>
+- <a href="https://raw.githubusercontent.com/thisnameistaken101/project-api-1293/master/images/player%20desktop.png">Player page with data</a>
+- <a href="https://raw.githubusercontent.com/thisnameistaken101/project-api-1293/master/images/player%20desktop%20loading.png">JavaScript assisted transition</a>
+- <a href="https://raw.githubusercontent.com/thisnameistaken101/project-api-1293/master/images/player%20mobile%20horizontal.png">Mobile horizontal player page</a>
+- <a href="https://raw.githubusercontent.com/thisnameistaken101/project-api-1293/master/images/player%20mobile%20vertical.png">Mobile vertical player page</a>
