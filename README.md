@@ -2,7 +2,7 @@ Basic project. Receives data from Riot Games API about players of game League of
 
 The project is responsive for small and regular screen sizes, mobiles on landscape and portrait. Works nicely without JavaScript but has some nice enhancement with it.
 
-This is production result, so I haven't really minimized files (would remove all the comments that I've written).
+This is production result, so I haven't really minimized files (would remove all the comments that I've written). Also, project is really small. So rather looking for functionality, look the way I write code and functions I use. Judge by that, rather than by size of project.
 
 Nothing really more to tell, other than if you want to run it you have to:
 - Change MySQL connection information in `__sys/res/dbconn.php`
